@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\inmemorycaching.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:inmemorycaching.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|e:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\all\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\asp projects practise\\inmemorycaching\\migrations\\20250228125757_createproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB717D54-4606-4E24-93CE-5F059873E53E}|InMemoryCaching.csproj|solutionrelative:migrations\\20250228125757_createproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 136,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,7 +67,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:45:21.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Models\\ProductDTO.cs",
               "RelativeDocumentMoniker": "Models\\ProductDTO.cs",
@@ -59,8 +87,7 @@
               "RelativeToolTip": "Models\\ProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:32:25.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:32:25.696Z"
             },
             {
               "$type": "Document",
@@ -70,36 +97,72 @@
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T12:32:13.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwBkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T11:45:21.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:03:48.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T11:36:39.376Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryCaching.csproj",
+              "DocumentMoniker": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\InMemoryCaching.csproj",
+              "RelativeDocumentMoniker": "InMemoryCaching.csproj",
+              "ToolTip": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\InMemoryCaching.csproj",
+              "RelativeToolTip": "InMemoryCaching.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T13:03:13.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:03:29.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250228125757_CreateProductsTable.cs",
+              "DocumentMoniker": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Migrations\\20250228125757_CreateProductsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250228125757_CreateProductsTable.cs",
+              "ToolTip": "E:\\\u0634\u0647\u0631 12 2024 \u0628\u0627\u0643\u0627\u0628\\ALL\\02\u0628\u0631\u0645\u062C\u0647 \u0648\u0628\u0627\u0643 \u0627\u0646\u062F\\\u064A\u062A\u0645 \u0645\u0630\u0627\u0643\u0631\u062A\u0647\\ASP projects practise\\InMemoryCaching\\Migrations\\20250228125757_CreateProductsTable.cs",
+              "RelativeToolTip": "Migrations\\20250228125757_CreateProductsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:57:58.221Z"
             }
           ]
         },

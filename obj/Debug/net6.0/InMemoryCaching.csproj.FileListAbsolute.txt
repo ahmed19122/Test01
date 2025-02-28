@@ -66,3 +66,4 @@ E:\شهر 12 2024 باكاب\ALL\02برمجه وباك اند\يتم مذاكر�
 E:\شهر 12 2024 باكاب\ALL\02برمجه وباك اند\يتم مذاكرته\ASP projects practise\InMemoryCaching\obj\Debug\net6.0\InMemoryCaching.pdb
 E:\شهر 12 2024 باكاب\ALL\02برمجه وباك اند\يتم مذاكرته\ASP projects practise\InMemoryCaching\obj\Debug\net6.0\InMemoryCaching.genruntimeconfig.cache
 E:\شهر 12 2024 باكاب\ALL\02برمجه وباك اند\يتم مذاكرته\ASP projects practise\InMemoryCaching\obj\Debug\net6.0\ref\InMemoryCaching.dll
+E:\شهر 12 2024 باكاب\ALL\02برمجه وباك اند\يتم مذاكرته\ASP projects practise\InMemoryCaching\obj\Debug\net6.0\InMemoryCaching.sourcelink.json
