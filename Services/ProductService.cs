@@ -23,7 +23,7 @@ namespace InMemoryCaching.Services
 		public async Task Add(ProductDTO request)
 		{
 			var product = new Product(request.Name, request.Description, request.Price);
-			await context.AddAsync<Product>(product);
+			await context.Products.AddAsync(product);
 			await context.SaveChangesAsync();
 
 			// invalidate cache for products, as new product is added
@@ -36,6 +36,8 @@ namespace InMemoryCaching.Services
 		public async Task<IEnumerable<Product>> GetAll()
 		{
 			var cacheKey = "products";
+
+			logger.LogInformation("fetching data for key: {CacheKey} from cache.", cacheKey);
 			if (!cache.TryGetValue(cacheKey, out IEnumerable<Product> products)) 
 			{
 				logger.LogInformation("cache miss. fetching data for key: {CacheKey} from database.", cacheKey);

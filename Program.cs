@@ -1,4 +1,5 @@
 using InMemoryCaching.Data;
+using InMemoryCaching.Models;
 using InMemoryCaching.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -37,10 +38,24 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.MapGet("/products", async ([FromServices]IProductService service) =>
+app.MapGet("/products", async (IProductService service) =>
 {
-    var products = service.GetAll();
+    var products = await service.GetAll();
     return Results.Ok(products);
+});
+
+app.MapGet("/products/{id:guid}", async (Guid id, IProductService service) =>
+{
+    var product = await service.GetById(id);
+    return Results.Ok(product);
+});
+
+
+
+app.MapPost("/products", async (ProductDTO request, IProductService service) =>
+{
+    await service.Add(request);
+	return Results.Ok();
 });
 
 app.Run();
